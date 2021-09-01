@@ -2,7 +2,7 @@ Plain txt file
 
 Second 
 
-#heading
+# heading
 
 **bolded** or ~~strikethough~~
 
@@ -10,7 +10,7 @@ Second
 - list 
 - of 
 - things
-  +sub list 
+  + sub list 
 
 1. Numbered list 
 2. list of things
